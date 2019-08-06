@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2842ADD622F3848800D4ED1F /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2842ADD522F3848800D4ED1F /* Story.swift */; };
 		2842ADDA22F38E5C00D4ED1F /* StoryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2842ADD922F38E5C00D4ED1F /* StoryCollectionViewCell.swift */; };
+		CE3A0D1A22F9E2D600D07757 /* TalkToAProfessionalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A0D1922F9E2D600D07757 /* TalkToAProfessionalViewController.swift */; };
 		F6BCEABC22EF6FC100FA4256 /* parentSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6BCEABB22EF6FC100FA4256 /* parentSearchViewController.swift */; };
 		F6BCEABE22F1FD4B00FA4256 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6BCEABD22F1FD4B00FA4256 /* Notifications.swift */; };
 		F6BDAAA122E5FC7D009301A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6BDAAA022E5FC7D009301A4 /* AppDelegate.swift */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		2842ADD522F3848800D4ED1F /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		2842ADD922F38E5C00D4ED1F /* StoryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCollectionViewCell.swift; sourceTree = "<group>"; };
+		CE3A0D1922F9E2D600D07757 /* TalkToAProfessionalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalkToAProfessionalViewController.swift; sourceTree = "<group>"; };
 		F6BCEABB22EF6FC100FA4256 /* parentSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parentSearchViewController.swift; sourceTree = "<group>"; };
 		F6BCEABD22F1FD4B00FA4256 /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
 		F6BDAA9D22E5FC7D009301A4 /* Togehter 48.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Togehter 48.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,6 +61,7 @@
 				F6BDAAC422EA0803009301A4 /* StoriesViewController.swift */,
 				F6BDAAB822E8C0DD009301A4 /* FirstPageViewController.swift */,
 				F6BDAAB622E8B066009301A4 /* mapViewController.swift */,
+				CE3A0D1922F9E2D600D07757 /* TalkToAProfessionalViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				F6BCEABE22F1FD4B00FA4256 /* Notifications.swift in Sources */,
 				F6BCEABC22EF6FC100FA4256 /* parentSearchViewController.swift in Sources */,
 				F6BDAAC622EA0803009301A4 /* StoriesViewController.swift in Sources */,
+				CE3A0D1A22F9E2D600D07757 /* TalkToAProfessionalViewController.swift in Sources */,
 				F6BDAAA122E5FC7D009301A4 /* AppDelegate.swift in Sources */,
 				F6BDAAB722E8B066009301A4 /* mapViewController.swift in Sources */,
 				2842ADD622F3848800D4ED1F /* Story.swift in Sources */,
